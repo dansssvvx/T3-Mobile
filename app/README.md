@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| **Nama** | [Nama Lengkap Kamu] |
-| **NIM** | [NIM Kamu] |
+| **Nama** | [AHMAD RAMADHANI R] |
+| **NIM** | [F1D02310102] |
 
 ---
 
