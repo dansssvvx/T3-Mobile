@@ -55,7 +55,7 @@ Setelah menekan tombol **Tampilkan**, semua data yang diisi akan ditampilkan di 
 
 ## Screenshot
 
-> ![screenshot](Screenshot 2026-04-21 133844.png)
+> ![screenshot](Screenshot2026-04-21133844.png)
 
 ---
 
